@@ -1,0 +1,7 @@
+.heading {
+    background: blue;
+}
+
+.heading>h1 {
+    float: right;
+}
